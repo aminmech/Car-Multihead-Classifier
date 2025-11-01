@@ -1,0 +1,20 @@
+# Ignore model checkpoints
+checkpoints/
+*.pth
+*.pt
+*.keras
+*.h5
+
+# Ignore dataset folders
+data/
+datasets/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
