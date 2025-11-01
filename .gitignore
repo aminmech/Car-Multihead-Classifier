@@ -6,8 +6,10 @@ checkpoints/
 *.h5
 
 # Ignore dataset folders
-data/
+Data/
 datasets/
+dataset/
+test_data/
 
 # Python cache
 __pycache__/
