@@ -187,7 +187,3 @@ Credits :
 
 .timm library
 
-
-https://drive.google.com/file/d/1eat3O5ZCp7RRg_rJeL4sKuPAyNakXmIU/view?usp=sharing
-
-https://drive.google.com/file/d/1fEamCJvvPS7_6echIWpYKI6BfwHqiIqX/view?usp=sharing
